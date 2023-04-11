@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ebs_version_comp" id="C5A476B9-EDE1-6800-761E-CEBF8C7095C5" version="3.5">
+<createdBy>Walter-Montalvo</createdBy>
+<createdTime>2020-02-24 18:02:35 UTC</createdTime>
+<ownerDesignName>ebs_version_comp</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C5A476B9-EDE1-6800-761E-CEBF8C7095C5</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="C5A476B9-EDE1-6800-761E-CEBF8C7095C5">
+<designStoragePath>C:\RMS-AWS-DEV\RingMasterStudio-3.0\repository\seeddata_source\ebs_comparison\ebs_version_comp</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>

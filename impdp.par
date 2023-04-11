@@ -1,0 +1,6 @@
+TABLES=ebs_version, ebs_family, ebs_product, ebs_sdcr, ebs_sdcr_src, ebs_sdcr_product, ebs_sdcr_prod_datatype, ebs_sdcr_prod_dt_item, ebs_sdcr_item_line, ebs_fcr, ebs_fcr_src, ebs_fcr_product, ebs_fcr_prod_filetype, ebs_fcr_prod_ft_item, ebs_fcr_ft_item_line, ebs_dmcr, ebs_dmcr_product, ebs_dmcr_object, ebs_dmcr_text
+TABLE_EXISTS_ACTION=APPEND
+DIRECTORY=DATA_PUMP_DIR
+DUMPFILE=ringm_cr.dmp
+LOGFILE=impdp.ringm_cr.log
+
